@@ -1,0 +1,5 @@
+com\sample\user\controller\UserControllerTest.class
+com\sample\user\service\UserServiceTest.class
+com\sample\user\controller\AdminControllerTest.class
+com\sample\user\dao\UserDaoTest.class
+com\sample\user\service\AdminServiceTest.class
